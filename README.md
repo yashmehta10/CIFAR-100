@@ -6,7 +6,7 @@ Here is an example of classes in the CIFAR-100:
 
 Superclass | Classes
 -------------- | -------------
-aquatic | mammals 	beaver, dolphin, otter, seal, whale
+aquatic mammals | beaver, dolphin, otter, seal, whale
 fish 	| aquarium fish, flatfish, ray, shark, trout
 flowers |	orchids, poppies, roses, sunflowers, tulips
 
